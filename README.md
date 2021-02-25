@@ -1,1 +1,1 @@
-# data_science_supervised_learning
+# Data Science Supervised Learning Techniques
